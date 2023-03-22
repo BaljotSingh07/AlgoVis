@@ -1,0 +1,14 @@
+header{
+    position: absolute;
+    top: 0;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+}
+header > h1{
+    color: white;
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
